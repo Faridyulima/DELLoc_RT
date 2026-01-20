@@ -1,2 +1,2 @@
-# DELLoc_RT
+# Dynamic Ensemble Learning with Received Signal Strength Transformation for Robust Multi-Floor Wi-Fi Indoor Localization
 DELLoc-RT is proposed to overcome the high computational demands and extensive parameter tuning required by existing algorithms for multi-floor RSS-based indoor localization. It addresses these challenges by providing an adaptable, accurate, and reliable algorithm for location estimation.
