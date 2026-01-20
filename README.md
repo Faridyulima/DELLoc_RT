@@ -7,7 +7,10 @@ Received Signal Strength (RSS)-based Wi-Fi localization offers a cost-effective 
 ![Illustration of DELLoc-RT](DELLoc-RT_figure.png)
 
 # Data
+The datasets used for DELLoc-RT evaluation are
 1. [UJIIndoorLoc dataset](http://archive.ics.uci.edu/dataset/310/ujiindoorloc)
 2. [UTSIndoorLoc dataset](https://github.com/XudongSong/UTSIndoorLoc-dataset/tree/master/UTSIndoorLoc)
 3. [Tampere dataset](https://zenodo.org/records/889798)
 4. [KMITL1Loc dataset](https://github.com/Faridyulima/KLLC-KMITL1Loc)
+
+# Codes
