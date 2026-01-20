@@ -5,3 +5,6 @@ Received Signal Strength (RSS)-based Wi-Fi localization offers a cost-effective 
 
 # DELLoc-RT Illustration
 ![Illustration of DELLoc-RT](DELLoc-RT_figure.png)
+
+# Data
+1. [UJIIndoorLoc dataset] (http://archive.ics.uci.edu/dataset/310/ujiindoorloc)
