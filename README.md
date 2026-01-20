@@ -14,3 +14,15 @@ The datasets used for DELLoc-RT evaluation are
 4. [KMITL1Loc dataset](https://github.com/Faridyulima/KLLC-KMITL1Loc)
 
 # Codes
+1. DELLoc for UJIIndoorLoc dataset: DELLoc-RT - UJIIndoorloc.ipynb
+2. DELLoc for UTSIndoorLoc dataset: DELLoc-RT - UTSIndoorloc.ipynb
+3. DELLoc for Tampere dataset: DELLoc-RT - Tampere.ipynb
+4. Visualization: Visualization.ipynb
+
+# Guidance
+If you use the materials in this repository, please cite the following paper: available soon.
+
+# Contact
+1. Farid Yuli Martin Adiyatma: 65016002@kmitl.ac.th
+2. Panarat Cherntanomwong: panarat.ch@kmitl.ac.th
+3. Dwi Joko Suroso: dwi.jokosuroso@ugm.ac.id 
